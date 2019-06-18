@@ -1,8 +1,7 @@
-cask 'atom'
-cask 'firefox'
+
 cask 'iterm2'
 cask 'spectacle'
-cask 'sublime-text'
+
 cask 'visual-studio-code'
 
 brew 'vim'
